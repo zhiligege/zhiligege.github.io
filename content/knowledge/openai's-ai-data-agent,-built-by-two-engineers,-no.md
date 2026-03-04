@@ -1,6 +1,6 @@
 ---
 title: OpenAI's AI data agent, built by two engineers, now serves 4,000 employees — and the company says an
-date: 2026-03-04
+date: 2026-03-05
 category: knowledge
 ---
 
