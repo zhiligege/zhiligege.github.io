@@ -13,6 +13,23 @@ export interface Post {
   source: string
 }
 
+// 日期格式化函数
+function formatDate(dateStr: string): string {
+  try {
+    const date = new Date(dateStr)
+    if (isNaN(date.getTime())) return dateStr
+    return date.toLocaleString('zh-CN', { 
+      year: 'numeric', 
+      month: '2-digit', 
+      day: '2-digit',
+      hour: '2-digit',
+      minute: '2-digit'
+    })
+  } catch {
+    return dateStr
+  }
+}
+
 export function getAllPosts(): Post[] {
   function getAllFiles(dir: string): string[] {
     const files: string[] = []
@@ -67,7 +84,7 @@ export function getAllPosts(): Post[] {
     return {
       id,
       title: String(data.title || ''),
-      date: String(data.date || ''),
+      date: formatDate(String(data.date || '')),
       category: String(data.category || ''),
       description,
       source,
