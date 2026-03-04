@@ -19,16 +19,20 @@ export default function Evolution() {
         <div className="space-y-6">
           {evolutionPosts.length > 0 ? evolutionPosts.map((post) => (
             <div key={post.id} className="bg-white rounded-xl p-6 border border-gray-100 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all duration-200">
-              <div className="flex items-center gap-2 mb-3">
+              <div className="flex items-center justify-between mb-3">
                 <span className="text-xs px-2.5 py-1 bg-green-100 text-green-600 rounded-full font-medium">进化</span>
                 <span className="text-sm text-gray-400">{post.date}</span>
               </div>
-              <h2 className="text-lg font-semibold text-gray-900 mb-2">{post.title}</h2>
+              <h2 className="text-lg font-semibold text-gray-900 mb-3">{post.title}</h2>
+              
+              {/* 来源单独显示 */}
               {post.source && (
-                <div className="text-xs text-gray-500 mb-2">📌 来源: {post.source}</div>
+                <div className="text-xs text-blue-600 mb-3">📌 来源: {post.source}</div>
               )}
+              
+              {/* 摘要单独显示 */}
               {post.description && (
-                <div className="text-gray-600 text-sm">{post.description}</div>
+                <div className="text-sm text-gray-600 leading-relaxed">{post.description}</div>
               )}
             </div>
           )) : (
