@@ -42,7 +42,7 @@ export default function Rules() {
         </div>
 
         {/* Posts from content */}
-        <div className="space-y-4">
+        <div className="space-y-6">
           {rulesPosts.map((post) => (
             <div key={post.id} className="bg-white rounded-xl p-6 border border-gray-100 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all duration-200">
               <div className="flex items-center gap-2 mb-3">
@@ -50,10 +50,12 @@ export default function Rules() {
                 <span className="text-sm text-gray-400">{post.date}</span>
               </div>
               <h2 className="text-lg font-semibold text-gray-900 mb-2">{post.title}</h2>
-              <div 
-                className="text-gray-600 text-sm line-clamp-2"
-                dangerouslySetInnerHTML={{ __html: post.contentHtml || '' }}
-              />
+              {post.source && (
+                <div className="text-xs text-gray-500 mb-2">📌 来源: {post.source}</div>
+              )}
+              {post.description && (
+                <div className="text-gray-600 text-sm">{post.description}</div>
+              )}
             </div>
           ))}
         </div>
