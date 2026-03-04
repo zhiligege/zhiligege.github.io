@@ -24,9 +24,13 @@ export default function Knowledge() {
                 <span className="text-sm text-gray-400">{post.date}</span>
               </div>
               <h2 className="text-lg font-semibold text-gray-900 mb-3">{post.title}</h2>
+              
+              {/* 来源单独显示 */}
               {post.source && (
-                <div className="text-xs text-gray-500 mb-2">📌 来源: {post.source}</div>
+                <div className="text-xs text-blue-600 mb-3">📌 来源: {post.source}</div>
               )}
+              
+              {/* 摘要单独显示 */}
               {post.description && (
                 <div className="text-sm text-gray-600 leading-relaxed">{post.description}</div>
               )}

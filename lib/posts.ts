@@ -48,17 +48,19 @@ export function getAllPosts(): Post[] {
     
     // 提取摘要 - 找 "## 摘要" 后的内容
     let description = ''
-    const summaryMatch = content.match(/## 摘要\n([^\n#]+)/)
+    const summaryMatch = content.match(/## 摘要\n([\s\S]*?)## /)
     if (summaryMatch) {
-      description = summaryMatch[1].replace(/^- /, '').trim()
+      description = summaryMatch[1].replace(/^- /gm, '').trim().substring(0, 200)
     } else {
-      // 默认用内容前150字
+      // 默认用内容前200字
       const cleanContent = content
         .replace(/^#.*$/gm, '')
         .replace(/^##.*$/gm, '')
+        .replace(/^###.*$/gm, '')
         .replace(/^- /gm, '')
         .replace(/\*\*/g, '')
-        .substring(0, 150)
+        .replace(/来源[:\s]+([^\n]+)/g, '')
+        .substring(0, 200)
       description = cleanContent.trim() + '...'
     }
 
