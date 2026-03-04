@@ -45,7 +45,7 @@ export function getAllPosts(): Post[] {
     return {
       id,
       title: String(matterResult.data.title || ''),
-      date: String(new Date(matterResult.data.date).toLocaleDateString('zh-CN')),
+      date: String(new Date(matterResult.data.date).toLocaleString('zh-CN')),
       category: String(matterResult.data.category || ''),
       content: matterResult.content,
     }

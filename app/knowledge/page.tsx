@@ -25,7 +25,7 @@ export default function Knowledge() {
               </div>
               <h2 className="text-lg font-semibold text-gray-900 mb-2">{post.title}</h2>
               <div 
-                className="text-gray-600 text-sm line-clamp-2"
+                className="text-gray-600 text-sm"
                 dangerouslySetInnerHTML={{ __html: post.contentHtml || '' }}
               />
             </div>

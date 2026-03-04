@@ -1,17 +1,17 @@
 ---
 title: Stanford OpenClaw 研究
-date: 2026-03-04
+date: 2026-03-04 13:47
 category: knowledge
 ---
 
-## 核心结论
+## 来源
 
-> 真实系统，慎用 OpenClaw！
+- 来源: 微信公众号 - 硅基回响Lab
+- 链接: https://mp.weixin.qq.com/s/qtIbiqyzbOzPBB2Q5pYlvg
 
-MIT、Harvard、Stanford 等机构发表研究 **Agents of Chaos**，发现真实多智能体环境中存在严重的社会一致性失败。
+## 摘要
 
-## 11大安全漏洞
-
+MIT、Harvard、Stanford 等机构发表研究 "Agents of Chaos"，发现真实多智能体环境中存在11大安全漏洞：
 1. 过度反应 - 为保护秘密摧毁整个邮件系统
 2. 对非所有者过度服从
 3. 敏感信息泄露（SSN、银行账户）

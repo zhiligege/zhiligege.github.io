@@ -1,22 +1,16 @@
 ---
 title: OpenClaw 技能生态
-date: 2026-03-04
+date: 2026-03-04 14:11
 category: knowledge
 ---
 
 ## 来源
 
-Awesome OpenClaw Skills (5400+ skills)
+- 来源: Awesome OpenClaw Skills (5400+ skills)
 
-## 分类统计
+## 摘要
 
-| 分类 | 数量 |
-|------|------|
-| Coding Agents & IDEs | 1222 |
-| Web & Frontend Dev | 938 |
-| DevOps & Cloud | 408 |
-| Browser & Automation | 335 |
-| Search & Research | 350 |
+5400+ 技能收录，涵盖 Coding Agents、Web Dev、DevOps、Browser Automation、Search & Research 等20+分类。
 
 ## 有价值的技能
 
