@@ -16,28 +16,46 @@ export interface Post {
 }
 
 export function getAllPosts(): Post[] {
-  // 创建 content 目录
-  if (!fs.existsSync(postsDirectory)) {
-    return []
+  // 递归读取所有子目录
+  function getAllFiles(dir: string): string[] {
+    const files: string[] = []
+    if (!fs.existsSync(dir)) return files
+    
+    const items = fs.readdirSync(dir)
+    for (const item of items) {
+      const fullPath = path.join(dir, item)
+      const stat = fs.statSync(fullPath)
+      if (stat.isDirectory()) {
+        files.push(...getAllFiles(fullPath))
+      } else if (item.endsWith('.md')) {
+        files.push(fullPath)
+      }
+    }
+    return files
   }
 
-  const fileNames = fs.readdirSync(postsDirectory)
-  const allPosts = fileNames
-    .filter((fileName) => fileName.endsWith('.md'))
-    .map((fileName) => {
-      const id = fileName.replace(/\.md$/, '')
-      const fullPath = path.join(postsDirectory, fileName)
-      const fileContents = fs.readFileSync(fullPath, 'utf8')
-      const matterResult = matter(fileContents)
+  const allFiles = getAllFiles(postsDirectory)
+  
+  const allPosts = allFiles.map((fullPath) => {
+    const fileName = path.basename(fullPath)
+    const id = fileName.replace(/\.md$/, '')
+    const fileContents = fs.readFileSync(fullPath, 'utf8')
+    const matterResult = matter(fileContents)
 
-      return {
-        id,
-        ...(matterResult.data as { title: string; date: string; category: string }),
-        content: matterResult.content,
-      }
-    })
+    return {
+      id,
+      title: String(matterResult.data.title || ''),
+      date: String(matterResult.data.date || ''),
+      category: String(matterResult.data.category || ''),
+      content: matterResult.content,
+    }
+  })
 
-  return allPosts.sort((a, b) => (a.date < b.date ? 1 : -1))
+  return allPosts.sort((a, b) => {
+    const dateA = new Date(a.date).getTime()
+    const dateB = new Date(b.date).getTime()
+    return dateB - dateA // 倒序，最新的在前
+  })
 }
 
 export async function getPost(id: string): Promise<Post | null> {
