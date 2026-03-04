@@ -13,34 +13,6 @@ export interface Post {
   source: string
 }
 
-// 简单的 markdown 转 HTML
-function markdownToHtml(markdown: string): string {
-  let html = markdown
-  
-  // 处理标题
-  html = html.replace(/^### (.*$)/gim, '<h3>$1</h3>')
-  html = html.replace(/^## (.*$)/gim, '<h2>$1</h2>')
-  html = html.replace(/^# (.*$)/gim, '<h1>$1</h1>')
-  
-  // 处理粗体
-  html = html.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
-  
-  // 处理列表
-  html = html.replace(/^- (.*$)/gim, '<li>$1</li>')
-  html = html.replace(/(<li>.*<\/li>)/g, '<ul>$1</ul>')
-  
-  // 处理换行
-  html = html.replace(/\n\n/g, '</p><p>')
-  html = '<p>' + html + '</p>'
-  
-  // 清理空标签
-  html = html.replace(/<p><\/p>/g, '')
-  html = html.replace(/<p><h/g, '<h')
-  html = html.replace(/<\/h.*><\/p>/g, '</h2>')
-  
-  return html
-}
-
 export function getAllPosts(): Post[] {
   function getAllFiles(dir: string): string[] {
     const files: string[] = []
@@ -67,24 +39,27 @@ export function getAllPosts(): Post[] {
     const fileContents = fs.readFileSync(fullPath, 'utf8')
     const { data, content } = matter(fileContents)
 
-    // 提取 description（摘要）和 source（来源）
-    let description = ''
+    // 提取来源
     let source = ''
-    
-    // 从 markdown 内容中提取
-    const lines = content.split('\n')
-    for (const line of lines) {
-      if (line.includes('## 摘要') || line.includes('##摘要')) {
-        description = lines[lines.indexOf(line) + 1]?.trim() || ''
-      }
-      if (line.includes('## 来源') || line.includes('##来源')) {
-        source = lines[lines.indexOf(line) + 1]?.replace('- 来源:', '')?.trim() || ''
-      }
+    const sourceMatch = content.match(/来源[:\s]+([^\n]+)/)
+    if (sourceMatch) {
+      source = sourceMatch[1].replace(/^- /, '').trim()
     }
     
-    // 如果没找到，用内容前100字
-    if (!description) {
-      description = content.replace(/^#.*$/gm, '').replace(/^##.*$/gm, '').substring(0, 100) + '...'
+    // 提取摘要 - 找 "## 摘要" 后的内容
+    let description = ''
+    const summaryMatch = content.match(/## 摘要\n([^\n#]+)/)
+    if (summaryMatch) {
+      description = summaryMatch[1].replace(/^- /, '').trim()
+    } else {
+      // 默认用内容前150字
+      const cleanContent = content
+        .replace(/^#.*$/gm, '')
+        .replace(/^##.*$/gm, '')
+        .replace(/^- /gm, '')
+        .replace(/\*\*/g, '')
+        .substring(0, 150)
+      description = cleanContent.trim() + '...'
     }
 
     return {
