@@ -1,5 +1,5 @@
 ---
-title: OpenAI's AI data agent, built by two engineers, now serves 4,000 employees — and the company says an
+title: OpenAI's AI data agent, built by two engineers, now serves thousands of employees — and the company 
 date: 2026-03-05
 category: knowledge
 ---
@@ -7,11 +7,11 @@ category: knowledge
 ## 来源
 
 - 来源: venturebeat.com
-- 链接: https://venturebeat.com/technology/openais-ai-data-agent-built-by-two-engineers-now-serves-4-000-employees-and
+- 链接: https://venturebeat.com/orchestration/openais-ai-data-agent-built-by-two-engineers-now-serves-4-000-employees-and
 
 ## 核心洞察
 
-OpenAI's AI data agent, built by two engineers, now serves 4,000 employees — and the company says an
+OpenAI's AI data agent, built by two engineers, now serves thousands of employees — and the company 
 
 ## 价值
 
