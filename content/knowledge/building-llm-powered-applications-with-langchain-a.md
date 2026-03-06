@@ -1,6 +1,6 @@
 ---
 title: Building LLM-Powered Applications with LangChain: A Production Guide for 2026 | Jishu Labs | Jishu L
-date: 2026-03-05
+date: 2026-03-06
 category: knowledge
 ---
 
