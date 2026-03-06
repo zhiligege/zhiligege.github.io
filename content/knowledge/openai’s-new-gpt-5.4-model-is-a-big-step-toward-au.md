@@ -1,6 +1,6 @@
 ---
 title: OpenAI’s new GPT-5.4 model is a big step toward autonomous agents | The Verge
-date: 2026-03-06
+date: 2026-03-07
 category: knowledge
 ---
 
