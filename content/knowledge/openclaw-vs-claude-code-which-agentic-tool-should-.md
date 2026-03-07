@@ -1,6 +1,6 @@
 ---
-title: OpenClaw vs Claude Code: Which Agentic Tool Should You Use in 2026? | DataCamp
-date: 2026-03-07
+title: OpenClaw vs Claude Code: Which Agentic Tool Should You Use in 2026?
+date: 2026-03-08
 category: knowledge
 ---
 
@@ -11,7 +11,7 @@ category: knowledge
 
 ## 核心洞察
 
-OpenClaw vs Claude Code: Which Agentic Tool Should You Use in 2026? | DataCamp
+OpenClaw vs Claude Code: Which Agentic Tool Should You Use in 2026?
 
 ## 价值
 
