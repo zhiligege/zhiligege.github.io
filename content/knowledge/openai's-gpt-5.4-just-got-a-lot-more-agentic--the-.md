@@ -1,6 +1,6 @@
 ---
 title: OpenAI's GPT-5.4 just got a lot more agentic | The Deep View
-date: 2026-03-08
+date: 2026-03-09
 category: knowledge
 ---
 
