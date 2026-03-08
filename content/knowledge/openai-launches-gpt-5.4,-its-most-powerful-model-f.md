@@ -1,13 +1,13 @@
 ---
 title: OpenAI launches GPT-5.4, its most powerful model for enterprise work | Fortune
-date: 2026-03-07
+date: 2026-03-08
 category: knowledge
 ---
 
 ## 来源
 
 - 来源: fortune.com
-- 链接: http://fortune.com/2026/03/05/openai-new-model-gpt5-4-enterprise-agentic-anthropic/
+- 链接: https://fortune.com/2026/03/05/openai-new-model-gpt5-4-enterprise-agentic-anthropic/
 
 ## 核心洞察
 
