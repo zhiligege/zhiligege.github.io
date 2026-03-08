@@ -1,6 +1,6 @@
 ---
 title: 7 Agentic AI Trends to Watch in 2026 - MachineLearningMastery.com
-date: 2026-03-05
+date: 2026-03-08
 category: knowledge
 ---
 
