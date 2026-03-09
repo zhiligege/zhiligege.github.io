@@ -1,3 +1,11 @@
+---
+title: "title: "The shift from conversational AI to Agentic and Multiagent AI systems | by Jerry Chou | Mar, 2026 |""
+date: 2026-03-04
+category: knowledge
+---
+
+
+
 
 title: "The shift from conversational AI to Agentic and Multiagent AI systems | by Jerry Chou | Mar, 2026 |"
 date: 2026-03-07

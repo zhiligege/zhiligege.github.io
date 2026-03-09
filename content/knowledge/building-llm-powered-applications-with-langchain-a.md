@@ -1,3 +1,11 @@
+---
+title: "title: "Building LLM-Powered Applications with Lang Chain A Production Guide for 2026 | Jishu Labs | Jishu L""
+date: 2026-03-04
+category: knowledge
+---
+
+
+
 
 title: "Building LLM-Powered Applications with Lang Chain A Production Guide for 2026 | Jishu Labs | Jishu L"
 date: 2026-03-08

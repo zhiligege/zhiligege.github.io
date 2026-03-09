@@ -1,3 +1,11 @@
+---
+title: "title: "State of Agentic AI 2026""
+date: 2026-03-04
+category: knowledge
+---
+
+
+
 
 title: "State of Agentic AI 2026"
 date: 2026-03-05

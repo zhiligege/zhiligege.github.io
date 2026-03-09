@@ -1,3 +1,11 @@
+---
+title: "title: "Perplexity announces Computer, an AI agent that assigns work to other AI agents - Ars Technica""
+date: 2026-03-04
+category: knowledge
+---
+
+
+
 
 title: "Perplexity announces Computer, an AI agent that assigns work to other AI agents - Ars Technica"
 date: 2026-03-05

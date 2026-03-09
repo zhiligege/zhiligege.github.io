@@ -1,3 +1,11 @@
+---
+title: "title: "Agentic AI 2026The Rise of Autonomous Agents""
+date: 2026-03-04
+category: knowledge
+---
+
+
+
 
 title: "Agentic AI 2026The Rise of Autonomous Agents"
 date: 2026-03-08

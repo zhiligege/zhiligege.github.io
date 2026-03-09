@@ -1,8 +1,8 @@
-
-title: "BMW Group to deploy humanoid robots in production in Germany for the first time"
-date: 2026-03-05
+---
+title: BMW Group to deploy humanoid robots in production in Germany for the first time
+date: 2026-03-09
 category: knowledge
-
+---
 
 ## 来源
 

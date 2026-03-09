@@ -1,3 +1,11 @@
+---
+title: "title: "Agentic AI in 2026The Autonomous Revolution Reshaping Enterprise Tech""
+date: 2026-03-04
+category: knowledge
+---
+
+
+
 
 title: "Agentic AI in 2026The Autonomous Revolution Reshaping Enterprise Tech"
 date: 2026-03-09

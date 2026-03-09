@@ -1,3 +1,11 @@
+---
+title: "title: "A robot that thinks like a farmer Agri Pass raises $7.5M for human-inspired weed control — TFN""
+date: 2026-03-04
+category: knowledge
+---
+
+
+
 
 title: "A robot that thinks like a farmer Agri Pass raises $7.5M for human-inspired weed control — TFN"
 date: 2026-03-06
