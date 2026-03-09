@@ -1,6 +1,6 @@
 ---
-title: OpenAI robotics leader resigns over concerns about Pentagon AI deal : NPR
-date: 2026-03-09
+title: "openai robotics leader resigns over concerns about"
+date: 2026-03-04
 category: knowledge
 ---
 

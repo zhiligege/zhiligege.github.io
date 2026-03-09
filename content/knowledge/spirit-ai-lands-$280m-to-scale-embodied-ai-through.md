@@ -1,16 +1,8 @@
 ---
-title: "title: "Spirit AI Lands $280M to Scale Embodied AI Through Dirty Data""
+title: "spirit ai lands $280m to scale embodied ai through"
 date: 2026-03-04
 category: knowledge
 ---
-
-
-
-
-title: "Spirit AI Lands $280M to Scale Embodied AI Through Dirty Data"
-date: 2026-03-08
-category: knowledge
-
 
 ## 来源
 

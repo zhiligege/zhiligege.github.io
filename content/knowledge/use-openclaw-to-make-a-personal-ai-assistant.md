@@ -1,16 +1,8 @@
 ---
-title: "title: "Use Open Claw to Make a Personal AI Assistant""
+title: "use openclaw to make a personal ai assistant"
 date: 2026-03-04
 category: knowledge
 ---
-
-
-
-
-title: "Use Open Claw to Make a Personal AI Assistant"
-date: 2026-03-09
-category: knowledge
-
 
 ## 来源
 

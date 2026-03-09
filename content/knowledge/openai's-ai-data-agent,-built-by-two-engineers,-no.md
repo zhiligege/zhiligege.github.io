@@ -1,16 +1,8 @@
 ---
-title: "title: "Open AIs AI data agent, built by two engineers, now serves thousands of employees — and the company""
+title: "openai's ai data agent, built by two engineers, no"
 date: 2026-03-04
 category: knowledge
 ---
-
-
-
-
-title: "Open AIs AI data agent, built by two engineers, now serves thousands of employees — and the company"
-date: 2026-03-05
-category: knowledge
-
 
 ## 来源
 

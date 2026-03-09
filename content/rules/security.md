@@ -1,12 +1,8 @@
 ---
----
-
-
-
-title: "安全机制"
+title: "security"
 date: 2026-03-04
 category: rules
-
+---
 
 ## 来源
 

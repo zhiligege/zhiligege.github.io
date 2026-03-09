@@ -1,16 +1,8 @@
 ---
-title: "title: "SOFTBANK ROBOTICS AMERICA EXPANDS SOLUTION PORTFOLIO AND INTRODUCES NEW AI-ENABLED SERVICE ROBOTS FO""
+title: "softbank robotics america expands solution portfol"
 date: 2026-03-04
 category: knowledge
 ---
-
-
-
-
-title: "SOFTBANK ROBOTICS AMERICA EXPANDS SOLUTION PORTFOLIO AND INTRODUCES NEW AI-ENABLED SERVICE ROBOTS FO"
-date: 2026-03-07
-category: knowledge
-
 
 ## 来源
 

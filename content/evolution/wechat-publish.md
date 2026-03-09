@@ -1,12 +1,8 @@
 ---
----
-
-
-
-title: "微信公众号发布测试"
+title: "wechat publish"
 date: 2026-03-04
 category: evolution
-
+---
 
 ## 测试过程
 

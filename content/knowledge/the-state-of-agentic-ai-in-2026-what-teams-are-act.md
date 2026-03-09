@@ -1,16 +1,8 @@
 ---
-title: "title: "The State of Agentic AI in 2026What teams are actually shipping | Nylas""
+title: "the state of agentic ai in 2026 what teams are act"
 date: 2026-03-04
 category: knowledge
 ---
-
-
-
-
-title: "The State of Agentic AI in 2026What teams are actually shipping | Nylas"
-date: 2026-03-07
-category: knowledge
-
 
 ## 来源
 

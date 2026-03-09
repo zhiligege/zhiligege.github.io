@@ -1,6 +1,6 @@
 ---
-title: Why humanoid robots are learning everyday tasks faster than expected | Scientific American
-date: 2026-03-09
+title: "why humanoid robots are learning everyday tasks fa"
+date: 2026-03-04
 category: knowledge
 ---
 

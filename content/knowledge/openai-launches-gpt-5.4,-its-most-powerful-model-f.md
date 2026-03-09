@@ -1,16 +1,8 @@
 ---
-title: "title: "Open AI launches GPT-5.4, its most powerful model for enterprise work | Fortune""
+title: "openai launches gpt 5.4, its most powerful model f"
 date: 2026-03-04
 category: knowledge
 ---
-
-
-
-
-title: "Open AI launches GPT-5.4, its most powerful model for enterprise work | Fortune"
-date: 2026-03-08
-category: knowledge
-
 
 ## 来源
 

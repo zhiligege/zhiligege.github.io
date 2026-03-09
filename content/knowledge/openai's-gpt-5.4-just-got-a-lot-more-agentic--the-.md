@@ -1,16 +1,8 @@
 ---
-title: "title: "Open AIs GPT-5.4 just got a lot more agentic | The Deep View""
+title: "openai's gpt 5.4 just got a lot more agentic  the "
 date: 2026-03-04
 category: knowledge
 ---
-
-
-
-
-title: "Open AIs GPT-5.4 just got a lot more agentic | The Deep View"
-date: 2026-03-09
-category: knowledge
-
 
 ## 来源
 

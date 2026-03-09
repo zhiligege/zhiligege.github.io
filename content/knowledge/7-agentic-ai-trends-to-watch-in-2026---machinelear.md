@@ -1,16 +1,8 @@
 ---
-title: "title: "7 Agentic AI Trends to Watch in 2026 - Machine Learning Mastery.com""
+title: "7 agentic ai trends to watch in 2026   machinelear"
 date: 2026-03-04
 category: knowledge
 ---
-
-
-
-
-title: "7 Agentic AI Trends to Watch in 2026 - Machine Learning Mastery.com"
-date: 2026-03-09
-category: knowledge
-
 
 ## 来源
 

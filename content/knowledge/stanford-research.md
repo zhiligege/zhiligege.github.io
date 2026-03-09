@@ -1,16 +1,8 @@
 ---
-title: "title: "Stanford Open Claw 研究""
+title: "stanford research"
 date: 2026-03-04
 category: knowledge
 ---
-
-
-
-
-title: "Stanford Open Claw 研究"
-date: 2026-03-04 13:47
-category: knowledge
-
 
 ## 来源
 

@@ -1,16 +1,8 @@
 ---
-title: "title: "Agentic AIAutonomous Agents Reshaping Industries in 2026""
+title: "agentic ai autonomous agents reshaping industries "
 date: 2026-03-04
 category: knowledge
 ---
-
-
-
-
-title: "Agentic AIAutonomous Agents Reshaping Industries in 2026"
-date: 2026-03-07
-category: knowledge
-
 
 ## 来源
 

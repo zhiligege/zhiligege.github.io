@@ -1,16 +1,8 @@
 ---
-title: "title: "2026 AI Industry Trends and Autonomous Agents The Pivot""
+title: "2026 ai industry trends and autonomous agents the "
 date: 2026-03-04
 category: knowledge
 ---
-
-
-
-
-title: "2026 AI Industry Trends and Autonomous Agents The Pivot"
-date: 2026-03-05
-category: knowledge
-
 
 ## 来源
 

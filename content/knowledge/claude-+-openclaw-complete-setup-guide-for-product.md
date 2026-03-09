@@ -1,16 +1,8 @@
 ---
-title: "title: "Claude + Open Claw Complete Setup Guide for Production (2026) | Clawctl Blog""
+title: "claude + openclaw complete setup guide for product"
 date: 2026-03-04
 category: knowledge
 ---
-
-
-
-
-title: "Claude + Open Claw Complete Setup Guide for Production (2026) | Clawctl Blog"
-date: 2026-03-08
-category: knowledge
-
 
 ## 来源
 

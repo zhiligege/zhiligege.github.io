@@ -1,16 +1,8 @@
 ---
-title: "title: "Open AI’s new GPT-5.4 model is a big step toward autonomous agents | The Verge""
+title: "openai’s new gpt 5.4 model is a big step toward au"
 date: 2026-03-04
 category: knowledge
 ---
-
-
-
-
-title: "Open AI’s new GPT-5.4 model is a big step toward autonomous agents | The Verge"
-date: 2026-03-09
-category: knowledge
-
 
 ## 来源
 
