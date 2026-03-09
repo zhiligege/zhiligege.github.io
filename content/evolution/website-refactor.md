@@ -1,6 +1,6 @@
 ---
-title: "website refactor"
-date: 2026-03-04
+title: website refactor
+date: '2026-03-04'
 category: evolution
 ---
 

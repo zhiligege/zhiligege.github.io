@@ -1,6 +1,6 @@
 ---
-title: "skill packages"
-date: 2026-03-04
+title: skill packages
+date: '2026-03-04'
 category: evolution
 ---
 

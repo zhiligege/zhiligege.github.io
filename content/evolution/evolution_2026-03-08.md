@@ -1,6 +1,6 @@
 ---
-title: "evolution 2026 03 08"
-date: 2026-03-04
+title: evolution 2026 03 08
+date: '2026-03-08'
 category: evolution
 ---
 
