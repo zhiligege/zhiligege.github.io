@@ -1,6 +1,6 @@
 ---
-title: llmeo strategies 2026 complete guide to llm optimi
-date: '2026-03-08'
+title: LLMEO Strategies 2026: Complete Guide to LLM Optimization
+date: 2026-03-09
 category: knowledge
 ---
 
