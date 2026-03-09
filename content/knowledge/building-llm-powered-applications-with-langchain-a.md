@@ -1,6 +1,6 @@
 ---
-title: "building llm powered applications with langchain a"
-date: 2026-03-04
+title: building llm powered applications with langchain a
+date: '2026-03-06'
 category: knowledge
 ---
 

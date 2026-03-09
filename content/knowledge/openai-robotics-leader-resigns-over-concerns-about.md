@@ -1,6 +1,6 @@
 ---
-title: "openai robotics leader resigns over concerns about"
-date: 2026-03-04
+title: openai robotics leader resigns over concerns about
+date: '2026-03-09'
 category: knowledge
 ---
 

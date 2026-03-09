@@ -1,6 +1,6 @@
 ---
-title: "agentic ai 2026 the rise of autonomous agents"
-date: 2026-03-04
+title: agentic ai 2026 the rise of autonomous agents
+date: '2026-03-09'
 category: knowledge
 ---
 

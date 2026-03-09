@@ -1,6 +1,6 @@
 ---
-title: "the shift from conversational ai to agentic and mu"
-date: 2026-03-04
+title: the shift from conversational ai to agentic and mu
+date: '2026-03-09'
 category: knowledge
 ---
 

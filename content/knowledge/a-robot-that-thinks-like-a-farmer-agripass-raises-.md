@@ -1,6 +1,6 @@
 ---
-title: "a robot that thinks like a farmer agripass raises "
-date: 2026-03-04
+title: 'a robot that thinks like a farmer agripass raises '
+date: '2026-03-09'
 category: knowledge
 ---
 

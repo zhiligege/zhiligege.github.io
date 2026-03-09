@@ -1,6 +1,6 @@
 ---
-title: "claude + openclaw complete setup guide for product"
-date: 2026-03-04
+title: claude + openclaw complete setup guide for product
+date: '2026-03-07'
 category: knowledge
 ---
 

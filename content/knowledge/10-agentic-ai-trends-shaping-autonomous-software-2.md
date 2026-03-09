@@ -1,6 +1,6 @@
 ---
-title: "10 agentic ai trends shaping autonomous software 2"
-date: 2026-03-04
+title: 10 agentic ai trends shaping autonomous software 2
+date: '2026-03-09'
 category: knowledge
 ---
 

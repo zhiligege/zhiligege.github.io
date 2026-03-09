@@ -1,6 +1,6 @@
 ---
-title: "state of agentic ai 2026"
-date: 2026-03-04
+title: state of agentic ai 2026
+date: '2026-03-09'
 category: knowledge
 ---
 

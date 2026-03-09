@@ -1,6 +1,6 @@
 ---
-title: "bmw group to deploy humanoid robots in production "
-date: 2026-03-04
+title: 'bmw group to deploy humanoid robots in production '
+date: '2026-03-09'
 category: knowledge
 ---
 

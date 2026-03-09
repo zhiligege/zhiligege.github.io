@@ -1,6 +1,6 @@
 ---
-title: "2026 ai industry trends and autonomous agents the "
-date: 2026-03-04
+title: '2026 ai industry trends and autonomous agents the '
+date: '2026-03-09'
 category: knowledge
 ---
 

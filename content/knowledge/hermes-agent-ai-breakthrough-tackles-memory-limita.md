@@ -1,6 +1,6 @@
 ---
-title: "hermes agent ai breakthrough tackles memory limita"
-date: 2026-03-04
+title: hermes agent ai breakthrough tackles memory limita
+date: '2026-03-05'
 category: knowledge
 ---
 

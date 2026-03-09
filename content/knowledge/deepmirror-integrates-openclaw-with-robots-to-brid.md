@@ -1,6 +1,6 @@
 ---
-title: "deepmirror integrates openclaw with robots to brid"
-date: 2026-03-04
+title: deepmirror integrates openclaw with robots to brid
+date: '2026-03-08'
 category: knowledge
 ---
 

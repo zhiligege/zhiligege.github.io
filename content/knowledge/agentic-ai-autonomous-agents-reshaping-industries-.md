@@ -1,6 +1,6 @@
 ---
-title: "agentic ai autonomous agents reshaping industries "
-date: 2026-03-04
+title: 'agentic ai autonomous agents reshaping industries '
+date: '2026-03-09'
 category: knowledge
 ---
 

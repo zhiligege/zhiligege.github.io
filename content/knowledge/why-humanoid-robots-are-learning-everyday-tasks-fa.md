@@ -1,6 +1,6 @@
 ---
-title: "why humanoid robots are learning everyday tasks fa"
-date: 2026-03-04
+title: why humanoid robots are learning everyday tasks fa
+date: '2026-03-06'
 category: knowledge
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "llmeo strategies 2026 complete guide to llm optimi"
-date: 2026-03-04
+title: llmeo strategies 2026 complete guide to llm optimi
+date: '2026-03-08'
 category: knowledge
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "9 llm enterprise applications advancements in 2026"
-date: 2026-03-04
+title: 9 llm enterprise applications advancements in 2026
+date: '2026-03-09'
 category: knowledge
 ---
 

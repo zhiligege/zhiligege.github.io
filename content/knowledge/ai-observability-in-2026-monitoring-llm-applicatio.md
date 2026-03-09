@@ -1,6 +1,6 @@
 ---
-title: "ai observability in 2026 monitoring llm applicatio"
-date: 2026-03-04
+title: ai observability in 2026 monitoring llm applicatio
+date: '2026-03-07'
 category: knowledge
 ---
 

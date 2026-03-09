@@ -1,6 +1,6 @@
 ---
-title: "stanford research"
-date: 2026-03-04
+title: stanford research
+date: '2026-03-04'
 category: knowledge
 ---
 

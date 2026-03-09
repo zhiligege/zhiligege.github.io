@@ -1,6 +1,6 @@
 ---
-title: "use openclaw to make a personal ai assistant"
-date: 2026-03-04
+title: use openclaw to make a personal ai assistant
+date: '2026-03-09'
 category: knowledge
 ---
 

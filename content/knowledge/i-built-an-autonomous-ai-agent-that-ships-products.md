@@ -1,6 +1,6 @@
 ---
-title: "i built an autonomous ai agent that ships products"
-date: 2026-03-04
+title: i built an autonomous ai agent that ships products
+date: '2026-03-09'
 category: knowledge
 ---
 

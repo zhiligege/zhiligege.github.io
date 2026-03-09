@@ -1,6 +1,6 @@
 ---
-title: "ai observability 2026"
-date: 2026-03-04
+title: ai observability 2026
+date: '2026-03-04'
 category: knowledge
 ---
 

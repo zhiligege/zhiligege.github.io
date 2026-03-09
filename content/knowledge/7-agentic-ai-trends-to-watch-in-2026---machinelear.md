@@ -1,6 +1,6 @@
 ---
-title: "7 agentic ai trends to watch in 2026   machinelear"
-date: 2026-03-04
+title: 7 agentic ai trends to watch in 2026   machinelear
+date: '2026-03-08'
 category: knowledge
 ---
 

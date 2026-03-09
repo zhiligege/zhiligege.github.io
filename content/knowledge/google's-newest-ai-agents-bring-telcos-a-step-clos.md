@@ -1,6 +1,6 @@
 ---
-title: "google's newest ai agents bring telcos a step clos"
-date: 2026-03-04
+title: google's newest ai agents bring telcos a step clos
+date: '2026-03-09'
 category: knowledge
 ---
 

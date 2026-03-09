@@ -1,6 +1,6 @@
 ---
-title: "spirit ai lands $280m to scale embodied ai through"
-date: 2026-03-04
+title: spirit ai lands $280m to scale embodied ai through
+date: '2026-03-09'
 category: knowledge
 ---
 
