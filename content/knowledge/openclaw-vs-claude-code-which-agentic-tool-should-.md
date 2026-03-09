@@ -1,8 +1,8 @@
----
-title: OpenClaw vs Claude Code: Which Agentic Tool Should ...
+
+title: "Open Claw vs Claude Code Which Agentic Tool Should ..."
 date: 2026-03-09
 category: knowledge
----
+
 
 ## 来源
 

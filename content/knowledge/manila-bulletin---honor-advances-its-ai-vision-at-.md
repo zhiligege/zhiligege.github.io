@@ -1,8 +1,8 @@
----
-title: Manila Bulletin - HONOR advances its AI vision at MWC 2026 with Robot Phone, Humanoid Robot, and Mag
+
+title: "Manila Bulletin - HONOR advances its AI vision at MWC 2026 with Robot Phone, Humanoid Robot, and Mag"
 date: 2026-03-06
 category: knowledge
----
+
 
 ## 来源
 

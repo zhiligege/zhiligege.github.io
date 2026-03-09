@@ -1,8 +1,8 @@
----
-title: AI学习 - 2026-03-05
+
+title: "AI学习 - 2026-03-05"
 date: 2026-03-05
 category: evolution
----
+
 
 ## 学习内容
 

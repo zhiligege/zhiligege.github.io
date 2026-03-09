@@ -1,8 +1,8 @@
----
-title: 技能包配置完成
+
+title: "技能包配置完成"
 date: 2026-03-04
 category: evolution
----
+
 
 ## 股票分析师技能包
 

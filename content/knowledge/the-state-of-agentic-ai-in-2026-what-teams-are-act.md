@@ -1,8 +1,8 @@
----
-title: The State of Agentic AI in 2026: What teams are actually shipping | Nylas
+
+title: "The State of Agentic AI in 2026What teams are actually shipping | Nylas"
 date: 2026-03-07
 category: knowledge
----
+
 
 ## 来源
 

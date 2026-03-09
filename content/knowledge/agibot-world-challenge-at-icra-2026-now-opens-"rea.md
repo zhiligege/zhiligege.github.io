@@ -1,8 +1,8 @@
----
-title: AGIBOT World Challenge at ICRA 2026 Now Opens "Reasoning to Action" and "World Model" Tracks
+
+title: "AGIBOT World Challenge at ICRA 2026 Now Opens Reasoning to Action and World Model Tracks"
 date: 2026-03-08
 category: knowledge
----
+
 
 ## 来源
 

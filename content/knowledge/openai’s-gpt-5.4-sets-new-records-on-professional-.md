@@ -1,8 +1,8 @@
----
-title: OpenAI’s GPT-5.4 sets new records on professional benchmarks
+
+title: "Open AI’s GPT-5.4 sets new records on professional benchmarks"
 date: 2026-03-09
 category: knowledge
----
+
 
 ## 来源
 

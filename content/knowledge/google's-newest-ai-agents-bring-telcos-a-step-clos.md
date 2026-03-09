@@ -1,8 +1,8 @@
----
-title: Google's newest AI agents bring telcos a step closer to autonomous network operations - SiliconANGLE
+
+title: "Googles newest AI agents bring telcos a step closer to autonomous network operations - Silicon ANGLE"
 date: 2026-03-05
 category: knowledge
----
+
 
 ## 来源
 

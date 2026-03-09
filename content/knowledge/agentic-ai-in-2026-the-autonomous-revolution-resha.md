@@ -1,8 +1,8 @@
----
-title: Agentic AI in 2026: The Autonomous Revolution Reshaping Enterprise Tech
+
+title: "Agentic AI in 2026The Autonomous Revolution Reshaping Enterprise Tech"
 date: 2026-03-09
 category: knowledge
----
+
 
 ## 来源
 

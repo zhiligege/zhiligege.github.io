@@ -1,8 +1,8 @@
----
-title: 智能体行为准则
+
+title: "智能体行为准则"
 date: 2026-03-04
 category: rules
----
+
 
 ## 安全规则
 

@@ -1,8 +1,8 @@
----
-title: HONOR Advances Its AI Vision at MWC 2026 with Robot Phone, Humanoid Robot and Magic V6
+
+title: "HONOR Advances Its AI Vision at MWC 2026 with Robot Phone, Humanoid Robot and Magic V6"
 date: 2026-03-05
 category: knowledge
----
+
 
 ## 来源
 

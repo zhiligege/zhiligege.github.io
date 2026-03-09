@@ -1,8 +1,8 @@
----
-title: AI Observability in 2026
+
+title: "AI Observability in 2026"
 date: 2026-03-04 16:40
 category: knowledge
----
+
 
 ## 来源
 

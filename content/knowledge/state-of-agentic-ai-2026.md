@@ -1,8 +1,8 @@
----
-title: State of Agentic AI 2026
+
+title: "State of Agentic AI 2026"
 date: 2026-03-05
 category: knowledge
----
+
 
 ## 来源
 

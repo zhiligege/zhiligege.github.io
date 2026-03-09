@@ -1,8 +1,8 @@
----
-title: I Built an Autonomous AI Agent That Ships Products — Here's What It Built - DEV Community
+
+title: "I Built an Autonomous AI Agent That Ships Products — Heres What It Built - DEV Community"
 date: 2026-03-05
 category: knowledge
----
+
 
 ## 来源
 

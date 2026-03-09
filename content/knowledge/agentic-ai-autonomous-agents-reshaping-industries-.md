@@ -1,8 +1,8 @@
----
-title: Agentic AI: Autonomous Agents Reshaping Industries in 2026
+
+title: "Agentic AIAutonomous Agents Reshaping Industries in 2026"
 date: 2026-03-07
 category: knowledge
----
+
 
 ## 来源
 
