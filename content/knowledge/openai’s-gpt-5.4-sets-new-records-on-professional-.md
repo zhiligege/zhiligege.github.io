@@ -1,6 +1,6 @@
 ---
-title: "openai’s gpt 5.4 sets new records on professional "
-date: 2026-03-04
+title: OpenAI’s GPT-5.4 sets new records on professional benchmarks
+date: 2026-03-10
 category: knowledge
 ---
 
