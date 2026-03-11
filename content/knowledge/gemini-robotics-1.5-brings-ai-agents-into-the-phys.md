@@ -1,6 +1,6 @@
 ---
 title: Gemini Robotics 1.5 brings AI agents into the physical world — Google DeepMind
-date: 2026-03-10
+date: 2026-03-11
 category: knowledge
 ---
 
