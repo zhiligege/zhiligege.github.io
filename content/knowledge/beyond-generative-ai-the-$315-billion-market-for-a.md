@@ -1,6 +1,6 @@
 ---
 title: Beyond Generative AI: The $315 Billion Market for Autonomous Agentic Workflows - INSIGHTS by Source 
-date: 2026-03-11
+date: 2026-03-12
 category: knowledge
 ---
 
