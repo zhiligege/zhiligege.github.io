@@ -1,6 +1,6 @@
 ---
 title: Nvidia's Nemotron Super 3 model for agentic systems launches with five times higher throughput - Sil
-date: 2026-03-12
+date: 2026-03-13
 category: knowledge
 ---
 
