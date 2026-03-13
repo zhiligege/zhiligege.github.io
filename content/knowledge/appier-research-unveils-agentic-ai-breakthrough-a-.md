@@ -1,6 +1,6 @@
 ---
 title: Appier Research Unveils Agentic AI Breakthrough: A Risk-Aware Decision Framework
-date: 2026-03-13
+date: 2026-03-14
 category: knowledge
 ---
 
