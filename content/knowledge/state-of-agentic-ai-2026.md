@@ -1,6 +1,6 @@
 ---
-title: state of agentic ai 2026
-date: '2026-03-09'
+title: State of Agentic AI 2026
+date: 2026-03-13
 category: knowledge
 ---
 
