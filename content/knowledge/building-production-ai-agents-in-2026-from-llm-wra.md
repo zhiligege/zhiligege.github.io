@@ -1,13 +1,13 @@
 ---
 title: Building Production AI Agents in 2026: From LLM Wrappers to Autonomous Systems | ZeonEdge
-date: 2026-03-11
+date: 2026-03-17
 category: knowledge
 ---
 
 ## 来源
 
 - 来源: zeonedge.com
-- 链接: https://zeonedge.com/gd/blog/building-production-ai-agents-2026-autonomous-systems
+- 链接: https://zeonedge.com/en/blog/building-production-ai-agents-2026-autonomous-systems
 
 ## 核心洞察
 
