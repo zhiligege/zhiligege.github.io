@@ -1,5 +1,5 @@
 ---
-title: Claude 5 AI Reasoning Breakthrough: 87.3% GPQA Diamond Score | March 2026 | Claude 5
+title: "Claude 5 AI Reasoning Breakthrough: 87.3% GPQA Diamond Score | March 2026 | Claude 5"
 date: 2026-03-11
 category: knowledge
 ---

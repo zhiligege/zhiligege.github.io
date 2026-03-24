@@ -1,5 +1,5 @@
 ---
-title: AI Observability in 2026: Monitoring LLM Applications in Production | ZeonEdge
+title: "AI Observability in 2026: Monitoring LLM Applications in Production | ZeonEdge"
 date: 2026-03-11
 category: knowledge
 ---

@@ -1,5 +1,5 @@
 ---
-title: Ai2: Building physical AI with virtual simulation data
+title: "Ai2: Building physical AI with virtual simulation data"
 date: 2026-03-12
 category: knowledge
 ---

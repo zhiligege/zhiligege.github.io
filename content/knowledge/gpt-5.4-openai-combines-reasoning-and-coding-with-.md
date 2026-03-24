@@ -1,5 +1,5 @@
 ---
-title: GPT-5.4: OpenAI combines reasoning and coding with computer control | heise online
+title: "GPT-5.4: OpenAI combines reasoning and coding with computer control | heise online"
 date: 2026-03-12
 category: knowledge
 ---

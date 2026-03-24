@@ -1,5 +1,5 @@
 ---
-title: Breaking: Claude just dropped their own OpenClaw version. : r/aiagents - Reddit
+title: "Breaking: Claude just dropped their own OpenClaw version. : r/aiagents - Reddit"
 date: 2026-03-12
 category: knowledge
 ---

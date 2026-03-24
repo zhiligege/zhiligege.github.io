@@ -1,5 +1,5 @@
 ---
-title: OpenClaw vs Claude Code: Two AI Agents, Two Very Different Roles
+title: "OpenClaw vs Claude Code: Two AI Agents, Two Very Different Roles"
 date: 2026-03-10
 category: knowledge
 ---

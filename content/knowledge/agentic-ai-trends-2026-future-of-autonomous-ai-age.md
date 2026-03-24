@@ -1,5 +1,5 @@
 ---
-title: Agentic AI Trends 2026: Future of Autonomous AI Agents | Acropolium
+title: "Agentic AI Trends 2026: Future of Autonomous AI Agents | Acropolium"
 date: 2026-03-14
 category: knowledge
 ---

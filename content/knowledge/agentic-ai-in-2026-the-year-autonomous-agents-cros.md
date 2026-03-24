@@ -1,5 +1,5 @@
 ---
-title: Agentic AI in 2026: The Year Autonomous Agents Crossed the Chasm | by Mohit Aggarwal | Feb, 2026 | M
+title: "Agentic AI in 2026: The Year Autonomous Agents Crossed the Chasm | by Mohit Aggarwal | Feb, 2026 | M"
 date: 2026-03-13
 category: knowledge
 ---

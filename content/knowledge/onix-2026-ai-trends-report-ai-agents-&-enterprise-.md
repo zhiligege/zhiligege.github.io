@@ -1,5 +1,5 @@
 ---
-title: Onix 2026 AI Trends Report: AI Agents & Enterprise Intelligence
+title: "Onix 2026 AI Trends Report: AI Agents & Enterprise Intelligence"
 date: 2026-03-11
 category: knowledge
 ---

@@ -1,5 +1,5 @@
 ---
-title: Introducing Nemotron 3 Super: An Open Hybrid Mamba-Transformer MoE for Agentic Reasoning | NVIDIA Te
+title: "Introducing Nemotron 3 Super: An Open Hybrid Mamba-Transformer MoE for Agentic Reasoning | NVIDIA Te"
 date: 2026-03-13
 category: knowledge
 ---

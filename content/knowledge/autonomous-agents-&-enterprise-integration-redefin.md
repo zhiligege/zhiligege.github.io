@@ -1,5 +1,5 @@
 ---
-title: Autonomous Agents & Enterprise Integration: Redefining Responsibility
+title: "Autonomous Agents & Enterprise Integration: Redefining Responsibility"
 date: 2026-03-10
 category: knowledge
 ---

@@ -1,5 +1,5 @@
 ---
-title: From Zero to MVP: 12-Hour Build Using Only Free-Tier LLMs in 2026
+title: "From Zero to MVP: 12-Hour Build Using Only Free-Tier LLMs in 2026"
 date: 2026-03-17
 category: knowledge
 ---

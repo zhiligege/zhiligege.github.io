@@ -1,5 +1,5 @@
 ---
-title: SIMA 2: A Gemini-Powered AI Agent for 3D Virtual Worlds — Google DeepMind
+title: "SIMA 2: A Gemini-Powered AI Agent for 3D Virtual Worlds — Google DeepMind"
 date: 2026-03-11
 category: knowledge
 ---

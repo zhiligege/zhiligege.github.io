@@ -1,5 +1,5 @@
 ---
-title: Agentic AI in 2026: LLMs Are No Longer Just Chatbots — They’re Running the Show | by KAY | Feb, 2026
+title: "Agentic AI in 2026: LLMs Are No Longer Just Chatbots — They’re Running the Show | by KAY | Feb, 2026"
 date: 2026-03-17
 category: knowledge
 ---
