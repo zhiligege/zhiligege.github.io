@@ -85,6 +85,12 @@ export default function Home() {
         {/* Links */}
         <div className="flex flex-wrap justify-center gap-4">
           <Link 
+            href="/tool"
+            className="px-6 py-3 bg-gradient-to-r from-purple-500 to-violet-600 text-white rounded-xl font-medium hover:opacity-90 transition"
+          >
+            🎨 MiniMax 图像生成
+          </Link>
+          <Link 
             href="/evolution"
             className="px-6 py-3 bg-white text-gray-700 border border-gray-200 rounded-xl font-medium hover:bg-gray-50 hover:shadow-md transition"
           >
