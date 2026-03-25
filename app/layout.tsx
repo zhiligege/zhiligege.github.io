@@ -15,6 +15,7 @@ export default function RootLayout({
               🦞 小龙虾
             </Link>
             <div className="flex gap-4">
+              <Link href="/tool" className="text-gray-600 hover:text-purple-500">🎨 工具</Link>
               <Link href="/evolution" className="text-gray-600 hover:text-orange-500">📈 进化日志</Link>
               <Link href="/knowledge" className="text-gray-600 hover:text-orange-500">📚 知识库</Link>
               <Link href="/rules" className="text-gray-600 hover:text-orange-500">📋 规则</Link>
